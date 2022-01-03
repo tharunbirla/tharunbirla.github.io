@@ -1,0 +1,14 @@
+[
+    {
+        "image": "/assets/img/sineAudioPlayer.png",
+        "link": "https://github.com/tharunbirla/sine-audio-player",
+        "description": "Sine Audio Player - Music & Audio Player JavaScript Library",
+        "tag": "JavaScript"
+    },
+    {
+        "image": "/assets/img/kollab.png",
+        "link": "https://github.com/tharunbirla/kollab",
+        "description": "Kollab for artists - An app that connects you with musicians and professionals worldwide for collaborations.",
+        "tag": "React"
+    }
+]

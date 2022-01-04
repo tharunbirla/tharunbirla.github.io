@@ -10,5 +10,11 @@
         "link": "https://github.com/tharunbirla/kollab",
         "description": "Kollab for artists - An app that connects you with musicians and professionals worldwide for collaborations.",
         "tag": "React"
+    },
+    {
+        "image": "/assets/img/beatStore.png",
+        "link": "https://neonvibesstore.ml",
+        "description": "An E-commerce site build with wordpress for selling beats online.",
+        "tag": "Wordpress"
     }
 ]

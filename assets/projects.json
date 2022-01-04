@@ -1,9 +1,9 @@
 [
     {
-        "image": "/assets/img/sineAudioPlayer.png",
-        "link": "https://github.com/tharunbirla/sine-audio-player",
-        "description": "Sine Audio Player - Music & Audio Player JavaScript Library",
-        "tag": "JavaScript"
+        "image": "/assets/img/beatStore.png",
+        "link": "https://neonvibesstore.ml",
+        "description": "An E-commerce site build with wordpress for selling beats online.",
+        "tag": "Wordpress"
     },
     {
         "image": "/assets/img/kollab.png",
@@ -12,9 +12,9 @@
         "tag": "React"
     },
     {
-        "image": "/assets/img/beatStore.png",
-        "link": "https://neonvibesstore.ml",
-        "description": "An E-commerce site build with wordpress for selling beats online.",
-        "tag": "Wordpress"
+        "image": "/assets/img/sineAudioPlayer.png",
+        "link": "https://github.com/tharunbirla/sine-audio-player",
+        "description": "Sine Audio Player - Music & Audio Player JavaScript Library",
+        "tag": "JavaScript"
     }
 ]
